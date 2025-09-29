@@ -2,8 +2,7 @@
 
 End to end pipeline real world computer vision project!
 
-[![Watch the video](https://img.youtube.com/vi/xgtujvjKIGs/0.jpg)](https://www.youtube.com/watch?v=xgtujvjKIGs)
-
+ 
 ## pipeline
 
 We are going to work on this simplified end to end pipeline:
